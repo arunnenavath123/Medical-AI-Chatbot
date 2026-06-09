@@ -38,7 +38,7 @@ A medical chatbot powered by **Generative AI**, **LangChain**, and **Pinecone Ve
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yashvantsaroj/Medical-Chatbot.git
+git clone https://github.com/arunnenavath123/Medical-AI-Chatbot.git
 cd Medical-Chatbot
 ```
 
