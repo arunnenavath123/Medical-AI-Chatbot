@@ -1,0 +1,23 @@
+# Core
+langchain
+langchain-core
+langchain-community
+
+# Gemini
+langchain-google-genai
+google-generativeai
+
+# Pinecone
+pinecone-client
+langchain-pinecone
+
+# Embeddings
+sentence-transformers
+langchain-huggingface
+
+# Utils
+pypdf
+python-dotenv
+flask
+accelerate
+bitsandbytes
